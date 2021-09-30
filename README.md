@@ -10,7 +10,14 @@ and you can check the results of the first task in the file **task1_output.txt**
 
 ______________________________________________________________
 # Task 2
-for this task we deined a functionun that yield opcodes (and their arguments) for ordinary python programs. In order to use function you need to copy the following command in your terminal and place our **.py** file(s) with yours:
+for this task we deined a functionun that yield opcodes (and their arguments) for ordinary python programs. In order to use this function you need to copy the following command in your terminal, remove our **.py** file(s) and place it with yours:
+
+**$ python3 main.py print -py src1.py**
+ 
+and you can check the results of the first task in the file **task2_output.txt**
+________________________________________________________________
+# Task 3
+In this task we extended th second task and now we are able to get the bytecode out of the source code or a string. In order to use this function you need to copy the following command in your terminal and place our **.py** file(s) with yours:
 
 **$ python3 main.py print -py src1.py**
  
