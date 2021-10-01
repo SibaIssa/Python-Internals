@@ -1,4 +1,0 @@
-LOAD_NAME	 print
-LOAD_CONST	 'Hello world'
-CALL_FUNCTION	 
-RETURN_VALUE	 

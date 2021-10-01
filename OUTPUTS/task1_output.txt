@@ -1,9 +1,0 @@
-File task1 does not exist
-File src1.py does exist
-File src2.py does exist
-File src3.py does exist
-{'src1.py': 0.2743940809996275, 'src2.py': 0.19757952699910675, 'src3.py': 0.1447128599993448}
-PROGRAM         | RANK  | TIME            
-src3.py         | 0     | 0.1447128599993448
-src2.py         | 1     | 0.19757952699910675
-src1.py         | 2     | 0.2743940809996275
