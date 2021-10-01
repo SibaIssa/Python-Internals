@@ -8,17 +8,17 @@ ___________________________________________________________
 Python 3 or greater(we used Python 3.8.10)
 ## Used Modules:
 * chdir
-*  sys,
->> timeit,
->>  dis,
->> subprocess,
->>  marshal,
->>  py_compile
->>  numpy 
->>  pandas as 
->>  NamedTemporaryFile
->>  defaultdict
->>  exists
+*  sys
+*  timeit
+*  dis
+*  subprocess
+*  marshal
+*  py_compile
+*  numpy 
+*  pandas
+*  NamedTemporaryFile
+*  defaultdict
+*  exists
 
 ___________________________________________________________
 # Task 1
