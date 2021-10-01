@@ -1,9 +1,6 @@
 # Python-Internals
 This repository is part of an assignment for Software Design with Python [SDwP] course, in which we will try to exhaust all the characteristics of python.and it consists of five main tasks and they all in functions in the **main.py** file. 
 _________________________________________________________________
-*to run this program you just need to download the **.zip** file on your machine and extract it on your desktop. then make sure the path in your terminal is correct **~/Desktop/s.issa** then you can use the key words: task1, print, compile and compare as it follows. 
-**p.s. all the results of the following examples are in the OUTPUT folder while the new ones will be in the the same folder (s.issa)** 
-
 ## Python version: 
 Python 3 or greater(we used Python 3.8.10)
 ## Used Modules:
@@ -19,6 +16,9 @@ Python 3 or greater(we used Python 3.8.10)
 *  NamedTemporaryFile
 *  defaultdict
 *  exists
+
+*to run this program you just need to download the **.zip** file on your machine and extract it on your desktop. then make sure the path in your terminal is correct **~/Desktop/s.issa** then you can use the key words: task1, print, compile and compare as it follows. 
+**p.s. all the results of the following examples are in the output folder** 
 
 ___________________________________________________________
 # Task 1
