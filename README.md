@@ -4,14 +4,15 @@ _________________________________________________________________
 *to run this program you just need to download the **.zip** file on your machine and extract it on your desktop. then make sure the path in your terminal is correct **~/Desktop/s.issa** then you can use the key words: task1, print, compile and compare as it follows. 
 **p.s. all the results of the following examples are in the OUTPUT folder while the new ones will be in the the same folder (s.issa)** 
 ___________________________________________________________
-## Python version: Python 3 or greater
+## Python version: 
+Python 3 or greater(we used Python 3.8.10)
 ## Used Modules:
->> chdir 
->> sys
->> timeit
->>  dis
->> subprocess
->>  marshal
+1. chdir
+2. sys,
+>> timeit,
+>>  dis,
+>> subprocess,
+>>  marshal,
 >>  py_compile
 >>  numpy 
 >>  pandas as 
