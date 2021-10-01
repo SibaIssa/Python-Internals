@@ -7,8 +7,8 @@ ___________________________________________________________
 ## Python version: 
 Python 3 or greater(we used Python 3.8.10)
 ## Used Modules:
-1. chdir
-2. sys,
+* chdir
+*  sys,
 >> timeit,
 >>  dis,
 >> subprocess,
