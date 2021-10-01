@@ -14,11 +14,30 @@ for this task we deined a functionun that yield opcodes (and their arguments) fo
 
 **$ python3 main.py print -py src1.py**
  
-and you can check the results of the first task in the file **task2_output.txt**
+and you can check the results of the second task in the file **task2_output.txt**
 ________________________________________________________________
 # Task 3
-In this task we extended th second task and now we are able to get the bytecode out of the source code or a string. In order to use this function you need to copy the following command in your terminal and place our **.py** file(s) with yours:
+In this task we extended th second task and now we are able to get the bytecode out of the source code or a string. In order to use this function you need to copy the following command in your terminal and place our file(s) with yours:
 
-**$ python3 main.py print -py src1.py**
- 
-and you can check the results of the first task in the file **task2_output.txt**
+**$ python3 main.py print -pyc  src1.pyc** (for source code)
+**$ python3 main.py print -s "print('Hello world')"** (for string)
+
+you can check the results of getting the bytecode from the source code in the file **task3_output_byc.txt**, and for the string in **task3_output_s.txt**
+__________________________________________________________
+# Task 4
+In this task we  Extended our program to produce (compile) .py files or code snippets right into .pyc
+
+**$ python3 main.py compile -py  src1.pyc** (for source code)
+**$ python3 main.py compile -s "print('Hello world')"** (for string)
+
+p.c the source code of the string will be stored in a file called **task4_output_s.pyc**, which will be saved in the same directory.
+__________________________________________
+# Task 5
+For this task we introduced a new action compare. It compares bytecode among different sources and produces neat table with stats of the used opcodes (and only them). you can use this function by the following command:
+
+**$ python3 main.py compare -py src1.py -py src2.py -py src3.py**
+
+you can see the results in the file **task5_output_byc.txt* 
+
+
+
